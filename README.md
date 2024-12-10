@@ -13,7 +13,6 @@ Có kết nối Database bằng Xampp.
 
 ## Database 
 Tải xammpp cho việc lưu trữ database.<br>
-
 <br>
 Mở trình duyệt phpAdmin: http://localhost/phpmyadmin
 <br>
