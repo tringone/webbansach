@@ -12,7 +12,7 @@ Có kết nối Database bằng Xampp.
 # Hướng dẫn cài đặt
 
 ## Database 
-Tải xammpp cho việc lưu trữ database.<br>
+Tải xampp cho việc lưu trữ database.<br>
 <br>
 Mở trình duyệt phpAdmin: http://localhost/phpmyadmin
 <br>
