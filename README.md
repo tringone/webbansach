@@ -10,7 +10,7 @@ Có kết nối Database bằng Xampp.
  </div>
 
 # Hướng dẫn cài đặt
-Tham khảo file Group12_WebDeployment.pdf
+Tham khảo cách deploy lên Virtual machine của website này tại file Group12_WebDeployment.pdf
 
 ## Database 
 Tải xampp cho việc lưu trữ database.<br>
@@ -27,13 +27,11 @@ Sau đó ta chọn mới, nhập tên là webdb và click ok<br>
  </div>
  
 ## Nơi cài đặt src
-
+Bỏ source code vào thư mục htdoc
 <div align="center">
   <img src="./Image/1.jpg">
  </div>
 
 ## Mở trang web
 Theo link sau: http://localhost/webbansach/
-<div align="center">
-  <img src="./Image/4.jpg">
- </div>
+
