@@ -13,7 +13,6 @@ Có kết nối Database bằng Xampp.
 
 ## Database 
 Tải xammpp cho việc lưu trữ database.<br>
-[File xammpp](https://drive.google.com/file/d/1CneWxJA6LRzYXV4XLFyhB7UI3x6a9Mp3/view?usp=sharing)
 
 <br>
 Mở trình duyệt phpAdmin: http://localhost/phpmyadmin
@@ -34,7 +33,7 @@ Sau đó ta chọn mới, nhập tên là webdb và click ok<br>
  </div>
 
 ## Mở trang web
-Theo link sau: http://localhost/PTUD_Web_2/
+Theo link sau: http://localhost/webbansach/
 <div align="center">
   <img src="./Image/4.jpg">
  </div>
