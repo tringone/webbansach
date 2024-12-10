@@ -10,6 +10,7 @@ Có kết nối Database bằng Xampp.
  </div>
 
 # Hướng dẫn cài đặt
+Tham khảo file Group12_WebDeployment.pdf
 
 ## Database 
 Tải xampp cho việc lưu trữ database.<br>
